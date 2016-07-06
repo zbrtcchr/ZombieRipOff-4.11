@@ -1,7 +1,7 @@
 package com.epicgames.ue4;
 
-import com.HorizonGames.ZombieRipOff.OBBDownloaderService;
-import com.HorizonGames.ZombieRipOff.DownloaderActivity;
+import com.YourCompany.ZombieRipOff.OBBDownloaderService;
+import com.YourCompany.ZombieRipOff.DownloaderActivity;
 
 
 public class DownloadShim
