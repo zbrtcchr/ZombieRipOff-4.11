@@ -1,0 +1,36 @@
+[33m808da95[m HEAD@{0}: reset: moving to 808da95600fb34497f565e65d1c7d38dfa7ae623
+[33m838e36c[m HEAD@{1}: checkout: moving from master to master
+[33m838e36c[m HEAD@{2}: checkout: moving from TrialBranch to master
+[33m808da95[m HEAD@{3}: checkout: moving from master to TrialBranch
+[33m838e36c[m HEAD@{4}: commit: Merged branch to master
+[33m8d9fa1a[m HEAD@{5}: checkout: moving from TrialBranch to master
+[33m808da95[m HEAD@{6}: commit: Fixed PostApocLevel and removed starter content
+[33mee9da03[m HEAD@{7}: commit: Removed source dir, moved geometry dir inside assets
+[33m84b8f9f[m HEAD@{8}: checkout: moving from master to TrialBranch
+[33m8d9fa1a[m HEAD@{9}: checkout: moving from TrialBranch to master
+[33m84b8f9f[m HEAD@{10}: checkout: moving from master to TrialBranch
+[33m8d9fa1a[m HEAD@{11}: checkout: moving from TrialBranch to master
+[33m84b8f9f[m HEAD@{12}: checkout: moving from master to TrialBranch
+[33m8d9fa1a[m HEAD@{13}: checkout: moving from TrialBranch to master
+[33m84b8f9f[m HEAD@{14}: commit: Changed print string txt to gwapo si zob
+[33m9b2009b[m HEAD@{15}: commit: Added print string on "BasePawn"
+[33m8d9fa1a[m HEAD@{16}: checkout: moving from master to TrialBranch
+[33m8d9fa1a[m HEAD@{17}: checkout: moving from TrialBranch to master
+[33m8d9fa1a[m HEAD@{18}: checkout: moving from master to TrialBranch
+[33m8d9fa1a[m HEAD@{19}: commit: added .uasset in .gitattributes
+[33m9219717[m HEAD@{20}: commit: Cleaned Project
+[33m07529a4[m HEAD@{21}: commit: committing last file
+[33me753935[m HEAD@{22}: commit: committing additional files
+[33m3508ff6[m HEAD@{23}: commit: committing tree
+[33m5551c19[m HEAD@{24}: commit: committing files
+[33me03474d[m HEAD@{25}: commit: cleaned project / submit
+[33m2d363ff[m HEAD@{26}: commit: Removed Repo and Re-added
+[33m026af5a[m HEAD@{27}: commit: Initial Commit of ll
+[33m1b74849[m HEAD@{28}: commit: Added comment bubble on event graph
+[33m33872c7[m HEAD@{29}: commit (amend): Initial check in
+[33mfa8e447[m HEAD@{30}: commit (amend): Initial check in
+[33mfafa32b[m HEAD@{31}: commit (amend): Initial check in
+[33m2c126a6[m HEAD@{32}: commit (amend): Initial check in
+[33m5b4045c[m HEAD@{33}: commit (amend): Initial check in
+[33m4111f23[m HEAD@{34}: commit: Initial check in
+[33m58b4f4f[m HEAD@{35}: commit (initial): Initial submit
