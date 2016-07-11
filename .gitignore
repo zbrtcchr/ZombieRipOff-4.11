@@ -1,5 +1,5 @@
 # UE4 Project directories to ignore
-/Binaries/
+/Binaries/Android
 /DerivedDataCache/
 /Intermediate/
 /Saved/
