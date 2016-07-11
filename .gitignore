@@ -1,5 +1,5 @@
 # UE4 Project directories to ignore
-/Binaries/Android
+/Binaries/Android/
 /DerivedDataCache/
 /Intermediate/
 /Saved/
@@ -18,5 +18,4 @@
 
 # Xcode Project files
 /*.xcodeproj
-/
-*.xcworkspace
+/*.xcworkspace
